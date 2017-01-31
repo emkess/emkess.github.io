@@ -1,15 +1,5 @@
 {% extends "base.html" %}
 {% block content %}
-    <h1>EECS 485 Project 1</h1>
-    <p class="center">
-	This site is used for different users to upload their images to specific albums online<br><br>
-        The current users are :    
-    </p>
-
-    <ul>
-    {% for item in users %}
-	<li>{{ item }} <a id="user_albums_{{item}}" href="albums?username={{item}}" > Albums </a></li>
-    {% endfor %}
-    </ul> 
+    <h1>Emily Kessler's website</h1>
   
 {% endblock %}
