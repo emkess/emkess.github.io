@@ -13,9 +13,20 @@ li {
     display: inline;
 }
 
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
 .navbar-custom {
   background-color: white;
   background-repeat: no-repeat;
   font-family: sans-serif;
   color: red;
+  position: ;
 }
