@@ -3,6 +3,10 @@
 	max-width: 500px;
 }
 
+a {
+	color: #555;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
