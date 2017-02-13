@@ -13,6 +13,10 @@ li {
     display: inline;
 }
 
+body{
+	background-image: url(background_1.jpg);
+}
+
 .navbar .navbar-nav {
   display: inline-block;
   float: none;
