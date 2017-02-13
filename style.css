@@ -16,6 +16,7 @@ li {
 
 body {
 	background-image: url(background_1.jpg);
+	background-repeat: no-repeat;
 }
 
 .navbar .navbar-nav {
