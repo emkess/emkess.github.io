@@ -3,8 +3,12 @@
 	max-width: 500px;
 }
 
-a {
+.a_custom {
 	color: #555;
+}
+
+.a_custom:hover {
+	color: #999;
 }
 
 ul {
