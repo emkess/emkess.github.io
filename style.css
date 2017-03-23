@@ -23,8 +23,10 @@ li {
 }
 
 body {
-	background-image: url(background_Seattle.jpg);
+	background-image: url(background_Seattle_bw.jpg);
 	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
 }
 
 .navbar .navbar-nav {
